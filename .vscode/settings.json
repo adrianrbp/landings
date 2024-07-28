@@ -1,0 +1,9 @@
+{
+  "tailwindCSS.includeLanguages": {
+    "astro": "html"
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 2
+}
